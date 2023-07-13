@@ -34,21 +34,21 @@ Suppose you have the following file structure:
 Running the script with the following command:
 
    ```bash
-    python filemanagement.py source_directory destination_directory
+     python filemanagement.py source_directory destination_directory
 
 will result in the following structure:
 
     ```bash
-    - destination_directory
-     - 2022
-         - photos
-             - image.jpg
-         - videos
-             - video.mp4
-         - audio
-             - audio.wav
-         - text
-             - document.docx
+     - destination_directory
+      - 2022
+          - photos
+              - image.jpg
+          - videos
+              - video.mp4
+          - audio
+              - audio.wav
+          - text
+              - document.docx
 
 The files are organized based on their file extensions and the modified year.
 
