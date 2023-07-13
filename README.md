@@ -15,7 +15,7 @@ This script organizes files in a source directory based on their file extension 
 
 1. Run the script by providing the source directory and destination directory as command-line arguments:
    ```bash
-   python file_organization.py source_directory destination_directory
+   python filemanagement.py source_directory destination_directory
    
 Replace **source_directory** with the path to the directory containing the files you want to organize, and **destination_directory** with the path to the directory where you want to move the organized files.
 
