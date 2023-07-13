@@ -24,7 +24,7 @@ Replace **source_directory** with the path to the directory containing the files
 # Example
 Suppose you have the following file structure:
 
-    ```bash
+   ```bash
     - source_directory
      - image.jpg
      - video.mp4
@@ -33,7 +33,7 @@ Suppose you have the following file structure:
 
 Running the script with the following command:
 
-    ```bash
+   ```bash
     python filemanagement.py source_directory destination_directory
 
 will result in the following structure:
