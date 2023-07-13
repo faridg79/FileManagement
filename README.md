@@ -33,12 +33,12 @@ Suppose you have the following file structure:
 
 Running the script with the following command:
 
-   ```bash
-     python filemanagement.py source_directory destination_directory
+    ```bash
+      python filemanagement.py source_directory destination_directory
 
 will result in the following structure:
 
-   ```bash
+    ```bash
      - destination_directory
       - 2022
           - photos
