@@ -38,7 +38,7 @@ Running the script with the following command:
 
 will result in the following structure:
 
-     ```bash
+
      - destination_directory
       - 2022
        - photos
