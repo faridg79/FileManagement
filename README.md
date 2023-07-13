@@ -33,7 +33,7 @@ Suppose you have the following file structure:
 
 Running the script with the following command:
 
-   ```bash
+    ```bash
       python filemanagement.py source_directory destination_directory
 
 will result in the following structure:
