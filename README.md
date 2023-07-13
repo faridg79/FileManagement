@@ -50,6 +50,7 @@ will result in the following structure:
           - text
               - document.docx
 
+
 The files are organized based on their file extensions and the modified year.
 
 # Supported File Extensions
