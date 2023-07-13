@@ -39,16 +39,16 @@ Running the script with the following command:
 will result in the following structure:
 
     ```bash
-     - destination_directory
-      - 2022
-          - photos
-              - image.jpg
-          - videos
-              - video.mp4
-          - audio
-              - audio.wav
-          - text
-              - document.docx
+   - destination_directory
+    - 2022
+     - photos
+      - image.jpg
+     - videos
+      - video.mp4
+     - audio
+      - audio.wav
+     - text
+      - document.docx
 
 
 The files are organized based on their file extensions and the modified year.
